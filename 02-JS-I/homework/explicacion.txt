@@ -1,0 +1,8 @@
+Vaiables - Es un espacio reservado, como si fuera una caja en un estante, en donde se puede introducir cualquier tipo de dato, numero, texto o valor booleano
+Strings - es una cadena de texto, caracteres undidos.
+Funciones 
+  argumentos - lineas de codigo que realizan una accion 
+  return - devuelve una expresion o el valor dentro de una variable.
+Declaraciones if - ejecuta un bloque de texto si la condicion se cumple o es verdadera y otro si es falsa.
+Valores booleanos - Valor de dos opciones unicas, verdadero o falso.
+
